@@ -1,0 +1,10 @@
+#!/home/talam/Desktop/programming/python/espn_py/.tox/py27/bin/python2.7
+# EASY-INSTALL-ENTRY-SCRIPT: 'pytest==2.3.5','console_scripts','py.test'
+__requires__ = 'pytest==2.3.5'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('pytest==2.3.5', 'console_scripts', 'py.test')()
+    )
