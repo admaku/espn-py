@@ -6,7 +6,7 @@ This project is a work in progress.
 
 ### Installation
 
-`pip install sandman`
+`pip install espn_py`
 
 ## Headlines API
 - list_headlines
