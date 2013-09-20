@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: espn-py
+Version: 0.1
+Summary: Simple python wrapper around the ESPN API
+Home-page: https://github.com/talam/espn-py
+Author: Tanvir Alam
+Author-email: tanviralam2@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: ESPN API Wrapper
+Platform: UNKNOWN
